@@ -1,0 +1,2312 @@
+[
+  {
+    "": 0,
+    "userID": "U1001",
+    "latitude": 22.139997,
+    "longitude": -100.978803,
+    "Rcuisine": "American"
+  },
+  {
+    "": 1,
+    "userID": "U1002",
+    "latitude": 22.150087,
+    "longitude": -100.983325,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 2,
+    "userID": "U1003",
+    "latitude": 22.119847,
+    "longitude": -100.946527,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 3,
+    "userID": "U1004",
+    "latitude": 18.867,
+    "longitude": -99.18299999999999,
+    "Rcuisine": "Bakery"
+  },
+  {
+    "": 4,
+    "userID": "U1004",
+    "latitude": 18.867,
+    "longitude": -99.18299999999999,
+    "Rcuisine": "Breakfast-Brunch"
+  },
+  {
+    "": 5,
+    "userID": "U1004",
+    "latitude": 18.867,
+    "longitude": -99.18299999999999,
+    "Rcuisine": "Japanese"
+  },
+  {
+    "": 6,
+    "userID": "U1004",
+    "latitude": 18.867,
+    "longitude": -99.18299999999999,
+    "Rcuisine": "Contemporary"
+  },
+  {
+    "": 7,
+    "userID": "U1004",
+    "latitude": 18.867,
+    "longitude": -99.18299999999999,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 8,
+    "userID": "U1004",
+    "latitude": 18.867,
+    "longitude": -99.18299999999999,
+    "Rcuisine": "Bagels"
+  },
+  {
+    "": 9,
+    "userID": "U1004",
+    "latitude": 18.867,
+    "longitude": -99.18299999999999,
+    "Rcuisine": "Cafe-Coffee_Shop"
+  },
+  {
+    "": 10,
+    "userID": "U1004",
+    "latitude": 18.867,
+    "longitude": -99.18299999999999,
+    "Rcuisine": "Continental-European"
+  },
+  {
+    "": 11,
+    "userID": "U1004",
+    "latitude": 18.867,
+    "longitude": -99.18299999999999,
+    "Rcuisine": "Cafeteria"
+  },
+  {
+    "": 12,
+    "userID": "U1005",
+    "latitude": 22.183477,
+    "longitude": -100.959891,
+    "Rcuisine": "American"
+  },
+  {
+    "": 13,
+    "userID": "U1006",
+    "latitude": 22.15,
+    "longitude": -100.98299999999999,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 14,
+    "userID": "U1007",
+    "latitude": 22.118464000000003,
+    "longitude": -100.93825600000001,
+    "Rcuisine": "Family"
+  },
+  {
+    "": 15,
+    "userID": "U1008",
+    "latitude": 22.122989,
+    "longitude": -100.923811,
+    "Rcuisine": "Cafe-Coffee_Shop"
+  },
+  {
+    "": 16,
+    "userID": "U1008",
+    "latitude": 22.122989,
+    "longitude": -100.923811,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 17,
+    "userID": "U1008",
+    "latitude": 22.122989,
+    "longitude": -100.923811,
+    "Rcuisine": "Juice"
+  },
+  {
+    "": 18,
+    "userID": "U1008",
+    "latitude": 22.122989,
+    "longitude": -100.923811,
+    "Rcuisine": "Hawaiian"
+  },
+  {
+    "": 19,
+    "userID": "U1008",
+    "latitude": 22.122989,
+    "longitude": -100.923811,
+    "Rcuisine": "Hot_Dogs"
+  },
+  {
+    "": 20,
+    "userID": "U1008",
+    "latitude": 22.122989,
+    "longitude": -100.923811,
+    "Rcuisine": "Latin_American"
+  },
+  {
+    "": 21,
+    "userID": "U1008",
+    "latitude": 22.122989,
+    "longitude": -100.923811,
+    "Rcuisine": "Korean"
+  },
+  {
+    "": 22,
+    "userID": "U1008",
+    "latitude": 22.122989,
+    "longitude": -100.923811,
+    "Rcuisine": "American"
+  },
+  {
+    "": 23,
+    "userID": "U1008",
+    "latitude": 22.122989,
+    "longitude": -100.923811,
+    "Rcuisine": "Cafeteria"
+  },
+  {
+    "": 24,
+    "userID": "U1008",
+    "latitude": 22.122989,
+    "longitude": -100.923811,
+    "Rcuisine": "Italian"
+  },
+  {
+    "": 25,
+    "userID": "U1009",
+    "latitude": 22.159426999999997,
+    "longitude": -100.990448,
+    "Rcuisine": "Diner"
+  },
+  {
+    "": 26,
+    "userID": "U1009",
+    "latitude": 22.159426999999997,
+    "longitude": -100.990448,
+    "Rcuisine": "Fast_Food"
+  },
+  {
+    "": 27,
+    "userID": "U1009",
+    "latitude": 22.159426999999997,
+    "longitude": -100.990448,
+    "Rcuisine": "Family"
+  },
+  {
+    "": 28,
+    "userID": "U1009",
+    "latitude": 22.159426999999997,
+    "longitude": -100.990448,
+    "Rcuisine": "Cafe-Coffee_Shop"
+  },
+  {
+    "": 29,
+    "userID": "U1009",
+    "latitude": 22.159426999999997,
+    "longitude": -100.990448,
+    "Rcuisine": "Deli-Sandwiches"
+  },
+  {
+    "": 30,
+    "userID": "U1009",
+    "latitude": 22.159426999999997,
+    "longitude": -100.990448,
+    "Rcuisine": "Cafeteria"
+  },
+  {
+    "": 31,
+    "userID": "U1009",
+    "latitude": 22.159426999999997,
+    "longitude": -100.990448,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 32,
+    "userID": "U1010",
+    "latitude": 22.190889000000002,
+    "longitude": -100.99866899999999,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 33,
+    "userID": "U1011",
+    "latitude": 23.724972,
+    "longitude": -99.152856,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 34,
+    "userID": "U1012",
+    "latitude": 18.813348,
+    "longitude": -99.243697,
+    "Rcuisine": "Latin_American"
+  },
+  {
+    "": 35,
+    "userID": "U1013",
+    "latitude": 22.174623999999998,
+    "longitude": -100.993873,
+    "Rcuisine": "Japanese"
+  },
+  {
+    "": 36,
+    "userID": "U1014",
+    "latitude": 23.751607,
+    "longitude": -99.170108,
+    "Rcuisine": "Japanese"
+  },
+  {
+    "": 37,
+    "userID": "U1014",
+    "latitude": 23.751607,
+    "longitude": -99.170108,
+    "Rcuisine": "Fast_Food"
+  },
+  {
+    "": 38,
+    "userID": "U1015",
+    "latitude": 22.12676,
+    "longitude": -100.905209,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 39,
+    "userID": "U1016",
+    "latitude": 22.156247,
+    "longitude": -100.977402,
+    "Rcuisine": "Cafe-Coffee_Shop"
+  },
+  {
+    "": 40,
+    "userID": "U1016",
+    "latitude": 22.156247,
+    "longitude": -100.977402,
+    "Rcuisine": "Contemporary"
+  },
+  {
+    "": 41,
+    "userID": "U1016",
+    "latitude": 22.156247,
+    "longitude": -100.977402,
+    "Rcuisine": "Regional"
+  },
+  {
+    "": 42,
+    "userID": "U1016",
+    "latitude": 22.156247,
+    "longitude": -100.977402,
+    "Rcuisine": "Fusion"
+  },
+  {
+    "": 43,
+    "userID": "U1016",
+    "latitude": 22.156247,
+    "longitude": -100.977402,
+    "Rcuisine": "Japanese"
+  },
+  {
+    "": 44,
+    "userID": "U1016",
+    "latitude": 22.156247,
+    "longitude": -100.977402,
+    "Rcuisine": "Portuguese"
+  },
+  {
+    "": 45,
+    "userID": "U1016",
+    "latitude": 22.156247,
+    "longitude": -100.977402,
+    "Rcuisine": "American"
+  },
+  {
+    "": 46,
+    "userID": "U1016",
+    "latitude": 22.156247,
+    "longitude": -100.977402,
+    "Rcuisine": "Indian-Pakistani"
+  },
+  {
+    "": 47,
+    "userID": "U1016",
+    "latitude": 22.156247,
+    "longitude": -100.977402,
+    "Rcuisine": "Eastern_European"
+  },
+  {
+    "": 48,
+    "userID": "U1016",
+    "latitude": 22.156247,
+    "longitude": -100.977402,
+    "Rcuisine": "Lebanese"
+  },
+  {
+    "": 49,
+    "userID": "U1016",
+    "latitude": 22.156247,
+    "longitude": -100.977402,
+    "Rcuisine": "Moroccan"
+  },
+  {
+    "": 50,
+    "userID": "U1016",
+    "latitude": 22.156247,
+    "longitude": -100.977402,
+    "Rcuisine": "Barbecue"
+  },
+  {
+    "": 51,
+    "userID": "U1016",
+    "latitude": 22.156247,
+    "longitude": -100.977402,
+    "Rcuisine": "Polynesian"
+  },
+  {
+    "": 52,
+    "userID": "U1016",
+    "latitude": 22.156247,
+    "longitude": -100.977402,
+    "Rcuisine": "Polish"
+  },
+  {
+    "": 53,
+    "userID": "U1017",
+    "latitude": 18.952614999999998,
+    "longitude": -99.201616,
+    "Rcuisine": "Chinese"
+  },
+  {
+    "": 54,
+    "userID": "U1018",
+    "latitude": 22.190949,
+    "longitude": -100.917902,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 55,
+    "userID": "U1019",
+    "latitude": 22.153385,
+    "longitude": -100.97529399999999,
+    "Rcuisine": "Family"
+  },
+  {
+    "": 56,
+    "userID": "U1020",
+    "latitude": 18.878189000000003,
+    "longitude": -99.22296899999999,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 57,
+    "userID": "U1021",
+    "latitude": 23.730569,
+    "longitude": -99.171883,
+    "Rcuisine": "Pizzeria"
+  },
+  {
+    "": 58,
+    "userID": "U1021",
+    "latitude": 23.730569,
+    "longitude": -99.171883,
+    "Rcuisine": "Regional"
+  },
+  {
+    "": 59,
+    "userID": "U1021",
+    "latitude": 23.730569,
+    "longitude": -99.171883,
+    "Rcuisine": "Chinese"
+  },
+  {
+    "": 60,
+    "userID": "U1021",
+    "latitude": 23.730569,
+    "longitude": -99.171883,
+    "Rcuisine": "Burgers"
+  },
+  {
+    "": 61,
+    "userID": "U1022",
+    "latitude": 22.146708,
+    "longitude": -100.964355,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 62,
+    "userID": "U1023",
+    "latitude": 23.752943,
+    "longitude": -99.166589,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 63,
+    "userID": "U1024",
+    "latitude": 22.154021,
+    "longitude": -100.976028,
+    "Rcuisine": "Afghan"
+  },
+  {
+    "": 64,
+    "userID": "U1025",
+    "latitude": 22.125602999999998,
+    "longitude": -100.907844,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 65,
+    "userID": "U1026",
+    "latitude": 23.733,
+    "longitude": -99.133,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 66,
+    "userID": "U1027",
+    "latitude": 22.16515,
+    "longitude": -100.987015,
+    "Rcuisine": "Family"
+  },
+  {
+    "": 67,
+    "userID": "U1028",
+    "latitude": 23.752874,
+    "longitude": -99.16924200000001,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 68,
+    "userID": "U1029",
+    "latitude": 22.151796,
+    "longitude": -100.989075,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 69,
+    "userID": "U1030",
+    "latitude": 18.844818,
+    "longitude": -99.18275799999999,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 70,
+    "userID": "U1031",
+    "latitude": 23.735698,
+    "longitude": -99.159851,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 71,
+    "userID": "U1032",
+    "latitude": 22.169184,
+    "longitude": -100.98684300000001,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 72,
+    "userID": "U1033",
+    "latitude": 22.15,
+    "longitude": -100.98299999999999,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 73,
+    "userID": "U1034",
+    "latitude": 22.137178,
+    "longitude": -101.01316899999999,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 74,
+    "userID": "U1035",
+    "latitude": 18.839671,
+    "longitude": -99.223897,
+    "Rcuisine": "Family"
+  },
+  {
+    "": 75,
+    "userID": "U1036",
+    "latitude": 22.160572,
+    "longitude": -100.989418,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 76,
+    "userID": "U1037",
+    "latitude": 22.15031,
+    "longitude": -100.900536,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 77,
+    "userID": "U1038",
+    "latitude": 22.125785999999998,
+    "longitude": -100.94370500000001,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 78,
+    "userID": "U1039",
+    "latitude": 23.738067,
+    "longitude": -99.13990600000001,
+    "Rcuisine": "Regional"
+  },
+  {
+    "": 79,
+    "userID": "U1040",
+    "latitude": 18.895187,
+    "longitude": -99.18039,
+    "Rcuisine": "Pizzeria"
+  },
+  {
+    "": 80,
+    "userID": "U1041",
+    "latitude": 18.935191,
+    "longitude": -99.23624000000001,
+    "Rcuisine": "Contemporary"
+  },
+  {
+    "": 81,
+    "userID": "U1042",
+    "latitude": 18.925773,
+    "longitude": -99.219589,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 82,
+    "userID": "U1043",
+    "latitude": 23.77103,
+    "longitude": -99.167082,
+    "Rcuisine": "Latin_American"
+  },
+  {
+    "": 83,
+    "userID": "U1044",
+    "latitude": 18.95298,
+    "longitude": -99.260789,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 84,
+    "userID": "U1045",
+    "latitude": 22.156724,
+    "longitude": -100.984268,
+    "Rcuisine": "Middle_Eastern"
+  },
+  {
+    "": 85,
+    "userID": "U1045",
+    "latitude": 22.156724,
+    "longitude": -100.984268,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 86,
+    "userID": "U1045",
+    "latitude": 22.156724,
+    "longitude": -100.984268,
+    "Rcuisine": "Mongolian"
+  },
+  {
+    "": 87,
+    "userID": "U1045",
+    "latitude": 22.156724,
+    "longitude": -100.984268,
+    "Rcuisine": "Moroccan"
+  },
+  {
+    "": 88,
+    "userID": "U1046",
+    "latitude": 22.144415,
+    "longitude": -100.933097,
+    "Rcuisine": "Bar"
+  },
+  {
+    "": 89,
+    "userID": "U1047",
+    "latitude": 22.142429,
+    "longitude": -100.949147,
+    "Rcuisine": "American"
+  },
+  {
+    "": 90,
+    "userID": "U1048",
+    "latitude": 22.142208,
+    "longitude": -101.022785,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 91,
+    "userID": "U1049",
+    "latitude": 22.15,
+    "longitude": -100.98299999999999,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 92,
+    "userID": "U1050",
+    "latitude": 23.758815,
+    "longitude": -99.171216,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 93,
+    "userID": "U1051",
+    "latitude": 18.877719,
+    "longitude": -99.22299,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 94,
+    "userID": "U1052",
+    "latitude": 22.138054999999998,
+    "longitude": -100.93600500000001,
+    "Rcuisine": "Bakery"
+  },
+  {
+    "": 95,
+    "userID": "U1053",
+    "latitude": 22.175832999999997,
+    "longitude": -100.986671,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 96,
+    "userID": "U1054",
+    "latitude": 22.150682999999997,
+    "longitude": -100.975342,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 97,
+    "userID": "U1055",
+    "latitude": 22.143289000000003,
+    "longitude": -100.98768299999999,
+    "Rcuisine": "Breakfast-Brunch"
+  },
+  {
+    "": 98,
+    "userID": "U1056",
+    "latitude": 22.168997,
+    "longitude": -100.974376,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 99,
+    "userID": "U1057",
+    "latitude": 22.196624,
+    "longitude": -100.91216999999999,
+    "Rcuisine": "American"
+  },
+  {
+    "": 100,
+    "userID": "U1058",
+    "latitude": 22.205802,
+    "longitude": -100.986081,
+    "Rcuisine": "Cuban"
+  },
+  {
+    "": 101,
+    "userID": "U1059",
+    "latitude": 18.988278,
+    "longitude": -99.097023,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 102,
+    "userID": "U1060",
+    "latitude": 23.715238,
+    "longitude": -99.15886400000001,
+    "Rcuisine": "Burgers"
+  },
+  {
+    "": 103,
+    "userID": "U1060",
+    "latitude": 23.715238,
+    "longitude": -99.15886400000001,
+    "Rcuisine": "Cafeteria"
+  },
+  {
+    "": 104,
+    "userID": "U1060",
+    "latitude": 23.715238,
+    "longitude": -99.15886400000001,
+    "Rcuisine": "Pizzeria"
+  },
+  {
+    "": 105,
+    "userID": "U1060",
+    "latitude": 23.715238,
+    "longitude": -99.15886400000001,
+    "Rcuisine": "Juice"
+  },
+  {
+    "": 106,
+    "userID": "U1060",
+    "latitude": 23.715238,
+    "longitude": -99.15886400000001,
+    "Rcuisine": "American"
+  },
+  {
+    "": 107,
+    "userID": "U1060",
+    "latitude": 23.715238,
+    "longitude": -99.15886400000001,
+    "Rcuisine": "Tex-Mex"
+  },
+  {
+    "": 108,
+    "userID": "U1060",
+    "latitude": 23.715238,
+    "longitude": -99.15886400000001,
+    "Rcuisine": "Spanish"
+  },
+  {
+    "": 109,
+    "userID": "U1060",
+    "latitude": 23.715238,
+    "longitude": -99.15886400000001,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 110,
+    "userID": "U1060",
+    "latitude": 23.715238,
+    "longitude": -99.15886400000001,
+    "Rcuisine": "Fast_Food"
+  },
+  {
+    "": 111,
+    "userID": "U1060",
+    "latitude": 23.715238,
+    "longitude": -99.15886400000001,
+    "Rcuisine": "Cafe-Coffee_Shop"
+  },
+  {
+    "": 112,
+    "userID": "U1060",
+    "latitude": 23.715238,
+    "longitude": -99.15886400000001,
+    "Rcuisine": "Soup"
+  },
+  {
+    "": 113,
+    "userID": "U1060",
+    "latitude": 23.715238,
+    "longitude": -99.15886400000001,
+    "Rcuisine": "Hot_Dogs"
+  },
+  {
+    "": 114,
+    "userID": "U1060",
+    "latitude": 23.715238,
+    "longitude": -99.15886400000001,
+    "Rcuisine": "Italian"
+  },
+  {
+    "": 115,
+    "userID": "U1061",
+    "latitude": 22.140388,
+    "longitude": -100.937321,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 116,
+    "userID": "U1062",
+    "latitude": 22.195826,
+    "longitude": -101.00631700000001,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 117,
+    "userID": "U1063",
+    "latitude": 23.745096,
+    "longitude": -99.164357,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 118,
+    "userID": "U1064",
+    "latitude": 22.139511,
+    "longitude": -100.957002,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 119,
+    "userID": "U1065",
+    "latitude": 23.733665,
+    "longitude": -99.10561700000001,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 120,
+    "userID": "U1066",
+    "latitude": 18.890695,
+    "longitude": -99.157104,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 121,
+    "userID": "U1067",
+    "latitude": 23.752269000000002,
+    "longitude": -99.168605,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 122,
+    "userID": "U1068",
+    "latitude": 23.752269000000002,
+    "longitude": -99.168605,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 123,
+    "userID": "U1069",
+    "latitude": 19.347641,
+    "longitude": -99.130229,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 124,
+    "userID": "U1070",
+    "latitude": 23.753237,
+    "longitude": -99.16686800000001,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 125,
+    "userID": "U1071",
+    "latitude": 22.154339,
+    "longitude": -100.975342,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 126,
+    "userID": "U1072",
+    "latitude": 18.86826,
+    "longitude": -99.21203299999999,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 127,
+    "userID": "U1073",
+    "latitude": 22.15,
+    "longitude": -100.98299999999999,
+    "Rcuisine": "American"
+  },
+  {
+    "": 128,
+    "userID": "U1074",
+    "latitude": 18.917,
+    "longitude": -99.25,
+    "Rcuisine": "Sushi"
+  },
+  {
+    "": 129,
+    "userID": "U1075",
+    "latitude": 22.167575,
+    "longitude": -100.960364,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 130,
+    "userID": "U1076",
+    "latitude": 22.156469,
+    "longitude": -100.98554,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 131,
+    "userID": "U1077",
+    "latitude": 22.156469,
+    "longitude": -100.98554,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 132,
+    "userID": "U1078",
+    "latitude": 22.172109,
+    "longitude": -100.963199,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 133,
+    "userID": "U1079",
+    "latitude": 18.917,
+    "longitude": -99.25,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 134,
+    "userID": "U1080",
+    "latitude": 23.743793,
+    "longitude": -99.163397,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 135,
+    "userID": "U1081",
+    "latitude": 22.207749,
+    "longitude": -100.94238299999999,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 136,
+    "userID": "U1082",
+    "latitude": 23.753061,
+    "longitude": -99.166095,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 137,
+    "userID": "U1083",
+    "latitude": 22.13392,
+    "longitude": -101.028373,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 138,
+    "userID": "U1084",
+    "latitude": 22.172524,
+    "longitude": -101.005758,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 139,
+    "userID": "U1085",
+    "latitude": 22.196787,
+    "longitude": -100.936335,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 140,
+    "userID": "U1086",
+    "latitude": 22.157281,
+    "longitude": -100.98444,
+    "Rcuisine": "Italian"
+  },
+  {
+    "": 141,
+    "userID": "U1087",
+    "latitude": 23.753335999999997,
+    "longitude": -99.16798399999999,
+    "Rcuisine": "Chinese"
+  },
+  {
+    "": 142,
+    "userID": "U1088",
+    "latitude": 22.142748,
+    "longitude": -100.940664,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 143,
+    "userID": "U1089",
+    "latitude": 22.162562,
+    "longitude": -100.99313000000001,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 144,
+    "userID": "U1090",
+    "latitude": 22.158473,
+    "longitude": -100.984268,
+    "Rcuisine": "Tex-Mex"
+  },
+  {
+    "": 145,
+    "userID": "U1091",
+    "latitude": 22.154677,
+    "longitude": -100.949013,
+    "Rcuisine": "American"
+  },
+  {
+    "": 146,
+    "userID": "U1091",
+    "latitude": 22.154677,
+    "longitude": -100.949013,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 147,
+    "userID": "U1092",
+    "latitude": 22.125365,
+    "longitude": -100.947888,
+    "Rcuisine": "Game"
+  },
+  {
+    "": 148,
+    "userID": "U1093",
+    "latitude": 18.871654,
+    "longitude": -99.183251,
+    "Rcuisine": "Japanese"
+  },
+  {
+    "": 149,
+    "userID": "U1094",
+    "latitude": 23.73944,
+    "longitude": -99.16054799999999,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 150,
+    "userID": "U1095",
+    "latitude": 22.179865,
+    "longitude": -101.018547,
+    "Rcuisine": "Italian"
+  },
+  {
+    "": 151,
+    "userID": "U1096",
+    "latitude": 22.1455,
+    "longitude": -100.939593,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 152,
+    "userID": "U1097",
+    "latitude": 22.145471,
+    "longitude": -100.939588,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 153,
+    "userID": "U1098",
+    "latitude": 22.182571,
+    "longitude": -100.96323199999999,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 154,
+    "userID": "U1099",
+    "latitude": 22.184862,
+    "longitude": -100.970535,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 155,
+    "userID": "U1100",
+    "latitude": 18.879729,
+    "longitude": -99.06710600000001,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 156,
+    "userID": "U1101",
+    "latitude": 22.150891,
+    "longitude": -100.974891,
+    "Rcuisine": "Chinese"
+  },
+  {
+    "": 157,
+    "userID": "U1101",
+    "latitude": 22.150891,
+    "longitude": -100.974891,
+    "Rcuisine": "Italian"
+  },
+  {
+    "": 158,
+    "userID": "U1101",
+    "latitude": 22.150891,
+    "longitude": -100.974891,
+    "Rcuisine": "Doughnuts"
+  },
+  {
+    "": 159,
+    "userID": "U1101",
+    "latitude": 22.150891,
+    "longitude": -100.974891,
+    "Rcuisine": "Afghan"
+  },
+  {
+    "": 160,
+    "userID": "U1101",
+    "latitude": 22.150891,
+    "longitude": -100.974891,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 161,
+    "userID": "U1101",
+    "latitude": 22.150891,
+    "longitude": -100.974891,
+    "Rcuisine": "Burgers"
+  },
+  {
+    "": 162,
+    "userID": "U1101",
+    "latitude": 22.150891,
+    "longitude": -100.974891,
+    "Rcuisine": "Latin_American"
+  },
+  {
+    "": 163,
+    "userID": "U1101",
+    "latitude": 22.150891,
+    "longitude": -100.974891,
+    "Rcuisine": "Contemporary"
+  },
+  {
+    "": 164,
+    "userID": "U1101",
+    "latitude": 22.150891,
+    "longitude": -100.974891,
+    "Rcuisine": "Cafe-Coffee_Shop"
+  },
+  {
+    "": 165,
+    "userID": "U1101",
+    "latitude": 22.150891,
+    "longitude": -100.974891,
+    "Rcuisine": "Family"
+  },
+  {
+    "": 166,
+    "userID": "U1101",
+    "latitude": 22.150891,
+    "longitude": -100.974891,
+    "Rcuisine": "Cafeteria"
+  },
+  {
+    "": 167,
+    "userID": "U1101",
+    "latitude": 22.150891,
+    "longitude": -100.974891,
+    "Rcuisine": "Bar"
+  },
+  {
+    "": 168,
+    "userID": "U1101",
+    "latitude": 22.150891,
+    "longitude": -100.974891,
+    "Rcuisine": "Australian"
+  },
+  {
+    "": 169,
+    "userID": "U1101",
+    "latitude": 22.150891,
+    "longitude": -100.974891,
+    "Rcuisine": "Hot_Dogs"
+  },
+  {
+    "": 170,
+    "userID": "U1101",
+    "latitude": 22.150891,
+    "longitude": -100.974891,
+    "Rcuisine": "Diner"
+  },
+  {
+    "": 171,
+    "userID": "U1102",
+    "latitude": 22.137131,
+    "longitude": -100.941151,
+    "Rcuisine": "Pizzeria"
+  },
+  {
+    "": 172,
+    "userID": "U1103",
+    "latitude": 23.752264999999998,
+    "longitude": -99.16859000000001,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 173,
+    "userID": "U1104",
+    "latitude": 22.149005,
+    "longitude": -100.978153,
+    "Rcuisine": "Italian"
+  },
+  {
+    "": 174,
+    "userID": "U1105",
+    "latitude": 22.120019,
+    "longitude": -100.950991,
+    "Rcuisine": "Cafeteria"
+  },
+  {
+    "": 175,
+    "userID": "U1106",
+    "latitude": 18.927072,
+    "longitude": -99.17358399999999,
+    "Rcuisine": "Barbecue"
+  },
+  {
+    "": 176,
+    "userID": "U1107",
+    "latitude": 23.742409,
+    "longitude": -99.17188900000001,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 177,
+    "userID": "U1108",
+    "latitude": 22.143524,
+    "longitude": -100.987562,
+    "Rcuisine": "Cafe-Coffee_Shop"
+  },
+  {
+    "": 178,
+    "userID": "U1108",
+    "latitude": 22.143524,
+    "longitude": -100.987562,
+    "Rcuisine": "Sushi"
+  },
+  {
+    "": 179,
+    "userID": "U1108",
+    "latitude": 22.143524,
+    "longitude": -100.987562,
+    "Rcuisine": "Latin_American"
+  },
+  {
+    "": 180,
+    "userID": "U1108",
+    "latitude": 22.143524,
+    "longitude": -100.987562,
+    "Rcuisine": "Deli-Sandwiches"
+  },
+  {
+    "": 181,
+    "userID": "U1108",
+    "latitude": 22.143524,
+    "longitude": -100.987562,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 182,
+    "userID": "U1108",
+    "latitude": 22.143524,
+    "longitude": -100.987562,
+    "Rcuisine": "Hot_Dogs"
+  },
+  {
+    "": 183,
+    "userID": "U1108",
+    "latitude": 22.143524,
+    "longitude": -100.987562,
+    "Rcuisine": "American"
+  },
+  {
+    "": 184,
+    "userID": "U1108",
+    "latitude": 22.143524,
+    "longitude": -100.987562,
+    "Rcuisine": "Fast_Food"
+  },
+  {
+    "": 185,
+    "userID": "U1108",
+    "latitude": 22.143524,
+    "longitude": -100.987562,
+    "Rcuisine": "Burgers"
+  },
+  {
+    "": 186,
+    "userID": "U1108",
+    "latitude": 22.143524,
+    "longitude": -100.987562,
+    "Rcuisine": "Asian"
+  },
+  {
+    "": 187,
+    "userID": "U1108",
+    "latitude": 22.143524,
+    "longitude": -100.987562,
+    "Rcuisine": "Pizzeria"
+  },
+  {
+    "": 188,
+    "userID": "U1108",
+    "latitude": 22.143524,
+    "longitude": -100.987562,
+    "Rcuisine": "Chinese"
+  },
+  {
+    "": 189,
+    "userID": "U1108",
+    "latitude": 22.143524,
+    "longitude": -100.987562,
+    "Rcuisine": "Dessert-Ice_Cream"
+  },
+  {
+    "": 190,
+    "userID": "U1108",
+    "latitude": 22.143524,
+    "longitude": -100.987562,
+    "Rcuisine": "Cafeteria"
+  },
+  {
+    "": 191,
+    "userID": "U1108",
+    "latitude": 22.143524,
+    "longitude": -100.987562,
+    "Rcuisine": "Japanese"
+  },
+  {
+    "": 192,
+    "userID": "U1108",
+    "latitude": 22.143524,
+    "longitude": -100.987562,
+    "Rcuisine": "Game"
+  },
+  {
+    "": 193,
+    "userID": "U1108",
+    "latitude": 22.143524,
+    "longitude": -100.987562,
+    "Rcuisine": "Family"
+  },
+  {
+    "": 194,
+    "userID": "U1108",
+    "latitude": 22.143524,
+    "longitude": -100.987562,
+    "Rcuisine": "Seafood"
+  },
+  {
+    "": 195,
+    "userID": "U1109",
+    "latitude": 22.303307999999998,
+    "longitude": -101.05468,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 196,
+    "userID": "U1110",
+    "latitude": 18.871678,
+    "longitude": -99.183263,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 197,
+    "userID": "U1111",
+    "latitude": 22.143078,
+    "longitude": -100.908523,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 198,
+    "userID": "U1112",
+    "latitude": 22.143078,
+    "longitude": -100.908523,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 199,
+    "userID": "U1113",
+    "latitude": 22.137342999999998,
+    "longitude": -100.913935,
+    "Rcuisine": "Burgers"
+  },
+  {
+    "": 200,
+    "userID": "U1114",
+    "latitude": 22.177726,
+    "longitude": -101.014094,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 201,
+    "userID": "U1115",
+    "latitude": 22.138126999999997,
+    "longitude": -100.920512,
+    "Rcuisine": "Regional"
+  },
+  {
+    "": 202,
+    "userID": "U1116",
+    "latitude": 22.156469,
+    "longitude": -100.98554,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 203,
+    "userID": "U1117",
+    "latitude": 18.875641,
+    "longitude": -99.220737,
+    "Rcuisine": "Turkish"
+  },
+  {
+    "": 204,
+    "userID": "U1118",
+    "latitude": 18.940062,
+    "longitude": -99.228172,
+    "Rcuisine": "Pizzeria"
+  },
+  {
+    "": 205,
+    "userID": "U1119",
+    "latitude": 18.96479,
+    "longitude": -99.260017,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 206,
+    "userID": "U1120",
+    "latitude": 22.121857000000002,
+    "longitude": -100.904279,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 207,
+    "userID": "U1121",
+    "latitude": 18.871674,
+    "longitude": -99.18325300000001,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 208,
+    "userID": "U1122",
+    "latitude": 22.169601,
+    "longitude": -100.991821,
+    "Rcuisine": "Afghan"
+  },
+  {
+    "": 209,
+    "userID": "U1123",
+    "latitude": 23.753111999999998,
+    "longitude": -99.16856700000001,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 210,
+    "userID": "U1124",
+    "latitude": 22.137072,
+    "longitude": -100.918865,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 211,
+    "userID": "U1125",
+    "latitude": 22.19204,
+    "longitude": -100.956935,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 212,
+    "userID": "U1126",
+    "latitude": 22.15421,
+    "longitude": -100.942233,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 213,
+    "userID": "U1127",
+    "latitude": 18.943935,
+    "longitude": -99.206532,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 214,
+    "userID": "U1128",
+    "latitude": 22.187236,
+    "longitude": -100.994213,
+    "Rcuisine": "Cafeteria"
+  },
+  {
+    "": 215,
+    "userID": "U1128",
+    "latitude": 22.187236,
+    "longitude": -100.994213,
+    "Rcuisine": "Hot_Dogs"
+  },
+  {
+    "": 216,
+    "userID": "U1128",
+    "latitude": 22.187236,
+    "longitude": -100.994213,
+    "Rcuisine": "Pizzeria"
+  },
+  {
+    "": 217,
+    "userID": "U1128",
+    "latitude": 22.187236,
+    "longitude": -100.994213,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 218,
+    "userID": "U1129",
+    "latitude": 23.728798,
+    "longitude": -99.134047,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 219,
+    "userID": "U1130",
+    "latitude": 23.733,
+    "longitude": -99.133,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 220,
+    "userID": "U1131",
+    "latitude": 22.138245,
+    "longitude": -100.910948,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 221,
+    "userID": "U1132",
+    "latitude": 22.15,
+    "longitude": -100.98299999999999,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 222,
+    "userID": "U1133",
+    "latitude": 18.886698000000003,
+    "longitude": -99.114979,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 223,
+    "userID": "U1134",
+    "latitude": 22.149654,
+    "longitude": -100.99861,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 224,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Organic-Healthy"
+  },
+  {
+    "": 225,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Steaks"
+  },
+  {
+    "": 226,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Middle_Eastern"
+  },
+  {
+    "": 227,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Mediterranean"
+  },
+  {
+    "": 228,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "British"
+  },
+  {
+    "": 229,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Austrian"
+  },
+  {
+    "": 230,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Israeli"
+  },
+  {
+    "": 231,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Doughnuts"
+  },
+  {
+    "": 232,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Pizzeria"
+  },
+  {
+    "": 233,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Seafood"
+  },
+  {
+    "": 234,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Fast_Food"
+  },
+  {
+    "": 235,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Moroccan"
+  },
+  {
+    "": 236,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Hot_Dogs"
+  },
+  {
+    "": 237,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Russian-Ukrainian"
+  },
+  {
+    "": 238,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Malaysian"
+  },
+  {
+    "": 239,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Burgers"
+  },
+  {
+    "": 240,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Fusion"
+  },
+  {
+    "": 241,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Korean"
+  },
+  {
+    "": 242,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Japanese"
+  },
+  {
+    "": 243,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Vegetarian"
+  },
+  {
+    "": 244,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Turkish"
+  },
+  {
+    "": 245,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Peruvian"
+  },
+  {
+    "": 246,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Juice"
+  },
+  {
+    "": 247,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Tapas"
+  },
+  {
+    "": 248,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Eclectic"
+  },
+  {
+    "": 249,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "African"
+  },
+  {
+    "": 250,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Basque"
+  },
+  {
+    "": 251,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Canadian"
+  },
+  {
+    "": 252,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Afghan"
+  },
+  {
+    "": 253,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Diner"
+  },
+  {
+    "": 254,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Irish"
+  },
+  {
+    "": 255,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Sushi"
+  },
+  {
+    "": 256,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Polynesian"
+  },
+  {
+    "": 257,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Bagels"
+  },
+  {
+    "": 258,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Tex-Mex"
+  },
+  {
+    "": 259,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Cuban"
+  },
+  {
+    "": 260,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Southwestern"
+  },
+  {
+    "": 261,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Cafe-Coffee_Shop"
+  },
+  {
+    "": 262,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Continental-European"
+  },
+  {
+    "": 263,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Family"
+  },
+  {
+    "": 264,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Indian-Pakistani"
+  },
+  {
+    "": 265,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Tea_House"
+  },
+  {
+    "": 266,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "International"
+  },
+  {
+    "": 267,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Pacific_Northwest"
+  },
+  {
+    "": 268,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Australian"
+  },
+  {
+    "": 269,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "German"
+  },
+  {
+    "": 270,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Regional"
+  },
+  {
+    "": 271,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Spanish"
+  },
+  {
+    "": 272,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Persian"
+  },
+  {
+    "": 273,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Ethiopian"
+  },
+  {
+    "": 274,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Romanian"
+  },
+  {
+    "": 275,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Cambodian"
+  },
+  {
+    "": 276,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Pacific_Rim"
+  },
+  {
+    "": 277,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Tunisian"
+  },
+  {
+    "": 278,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Filipino"
+  },
+  {
+    "": 279,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Dim_Sum"
+  },
+  {
+    "": 280,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Breakfast-Brunch"
+  },
+  {
+    "": 281,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Contemporary"
+  },
+  {
+    "": 282,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Greek"
+  },
+  {
+    "": 283,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Thai"
+  },
+  {
+    "": 284,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Swiss"
+  },
+  {
+    "": 285,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Bar"
+  },
+  {
+    "": 286,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Soup"
+  },
+  {
+    "": 287,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "American"
+  },
+  {
+    "": 288,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Mongolian"
+  },
+  {
+    "": 289,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Cajun-Creole"
+  },
+  {
+    "": 290,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Armenian"
+  },
+  {
+    "": 291,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Indigenous"
+  },
+  {
+    "": 292,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Bar_Pub_Brewery"
+  },
+  {
+    "": 293,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Hawaiian"
+  },
+  {
+    "": 294,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Cafeteria"
+  },
+  {
+    "": 295,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Lebanese"
+  },
+  {
+    "": 296,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Chinese"
+  },
+  {
+    "": 297,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Portuguese"
+  },
+  {
+    "": 298,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Caribbean"
+  },
+  {
+    "": 299,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Indonesian"
+  },
+  {
+    "": 300,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Hungarian"
+  },
+  {
+    "": 301,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Bakery"
+  },
+  {
+    "": 302,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Dutch-Belgian"
+  },
+  {
+    "": 303,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Deli-Sandwiches"
+  },
+  {
+    "": 304,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Kosher"
+  },
+  {
+    "": 305,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Fine_Dining"
+  },
+  {
+    "": 306,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Jamaican"
+  },
+  {
+    "": 307,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Tibetan"
+  },
+  {
+    "": 308,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Latin_American"
+  },
+  {
+    "": 309,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Southeast_Asian"
+  },
+  {
+    "": 310,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Eastern_European"
+  },
+  {
+    "": 311,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 312,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Burmese"
+  },
+  {
+    "": 313,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "California"
+  },
+  {
+    "": 314,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Game"
+  },
+  {
+    "": 315,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Italian"
+  },
+  {
+    "": 316,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Scandinavian"
+  },
+  {
+    "": 317,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Chilean"
+  },
+  {
+    "": 318,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Polish"
+  },
+  {
+    "": 319,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "North_African"
+  },
+  {
+    "": 320,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Asian"
+  },
+  {
+    "": 321,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Vietnamese"
+  },
+  {
+    "": 322,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Barbecue"
+  },
+  {
+    "": 323,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "French"
+  },
+  {
+    "": 324,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Brazilian"
+  },
+  {
+    "": 325,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Southern"
+  },
+  {
+    "": 326,
+    "userID": "U1135",
+    "latitude": 22.170396,
+    "longitude": -100.949936,
+    "Rcuisine": "Dessert-Ice_Cream"
+  },
+  {
+    "": 327,
+    "userID": "U1136",
+    "latitude": 22.149607,
+    "longitude": -100.997235,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 328,
+    "userID": "U1137",
+    "latitude": 22.144803,
+    "longitude": -100.94462299999999,
+    "Rcuisine": "Mexican"
+  },
+  {
+    "": 329,
+    "userID": "U1138",
+    "latitude": 22.152884,
+    "longitude": -100.939663,
+    "Rcuisine": "Pizzeria"
+  }
+]

@@ -1,0 +1,898 @@
+[
+  {
+    "placeID": 132560,
+    "latitude": 23.752304100000003,
+    "longitude": -99.16691329999999,
+    "Rcuisine": "Regional",
+    "Count": 4,
+    "ave_rating": 0.175
+  },
+  {
+    "placeID": 132572,
+    "latitude": 22.141647100000004,
+    "longitude": -100.9927118,
+    "Rcuisine": "Cafeteria",
+    "Count": 15,
+    "ave_rating": 0.7400000000000001
+  },
+  {
+    "placeID": 132583,
+    "latitude": 18.922290399999998,
+    "longitude": -99.234332,
+    "Rcuisine": "American",
+    "Count": 4,
+    "ave_rating": 0.8500000000000001
+  },
+  {
+    "placeID": 132584,
+    "latitude": 23.752364800000002,
+    "longitude": -99.16528790000001,
+    "Rcuisine": "Mexican",
+    "Count": 6,
+    "ave_rating": 1.1333333333333335
+  },
+  {
+    "placeID": 132594,
+    "latitude": 23.7521677,
+    "longitude": -99.16570899999999,
+    "Rcuisine": "Mexican",
+    "Count": 5,
+    "ave_rating": 0.26
+  },
+  {
+    "placeID": 132608,
+    "latitude": 23.7588052,
+    "longitude": -99.16512970000001,
+    "Rcuisine": "Mexican",
+    "Count": 6,
+    "ave_rating": 0.8333333333333334
+  },
+  {
+    "placeID": 132609,
+    "latitude": 23.760268300000003,
+    "longitude": -99.16586459999999,
+    "Rcuisine": "Fast_Food",
+    "Count": 5,
+    "ave_rating": 0.2
+  },
+  {
+    "placeID": 132613,
+    "latitude": 23.7529035,
+    "longitude": -99.165076,
+    "Rcuisine": "Mexican",
+    "Count": 6,
+    "ave_rating": 1.0666666666666667
+  },
+  {
+    "placeID": 132626,
+    "latitude": 23.7375834,
+    "longitude": -99.1351318,
+    "Rcuisine": "Italian",
+    "Count": 4,
+    "ave_rating": 1
+  },
+  {
+    "placeID": 132630,
+    "latitude": 23.752930499999998,
+    "longitude": -99.1644725,
+    "Rcuisine": "Mexican",
+    "Count": 6,
+    "ave_rating": 0.6
+  },
+  {
+    "placeID": 132663,
+    "latitude": 23.7525107,
+    "longitude": -99.1669536,
+    "Rcuisine": "Mexican",
+    "Count": 6,
+    "ave_rating": 0.16666666666666666
+  },
+  {
+    "placeID": 132665,
+    "latitude": 23.736797699999997,
+    "longitude": -99.1342413,
+    "Rcuisine": "Mexican",
+    "Count": 5,
+    "ave_rating": 0.74
+  },
+  {
+    "placeID": 132667,
+    "latitude": 23.7526973,
+    "longitude": -99.1633594,
+    "Rcuisine": "Armenian",
+    "Count": 4,
+    "ave_rating": 1
+  },
+  {
+    "placeID": 132668,
+    "latitude": 23.738212,
+    "longitude": -99.1519547,
+    "Rcuisine": "Mexican",
+    "Count": 3,
+    "ave_rating": 1
+  },
+  {
+    "placeID": 132706,
+    "latitude": 23.7292162,
+    "longitude": -99.1323571,
+    "Rcuisine": "Mexican",
+    "Count": 4,
+    "ave_rating": 0.5
+  },
+  {
+    "placeID": 132715,
+    "latitude": 23.732422600000003,
+    "longitude": -99.15866020000001,
+    "Rcuisine": "Mexican",
+    "Count": 4,
+    "ave_rating": 0.4
+  },
+  {
+    "placeID": 132717,
+    "latitude": 23.7318602,
+    "longitude": -99.1504365,
+    "Rcuisine": "Fast_Food",
+    "Count": 3,
+    "ave_rating": 1.3333333333333333
+  },
+  {
+    "placeID": 132723,
+    "latitude": 22.1489337,
+    "longitude": -101.01984499999999,
+    "Rcuisine": "Mexican",
+    "Count": 12,
+    "ave_rating": 1.2250000000000003
+  },
+  {
+    "placeID": 132732,
+    "latitude": 23.754356899999998,
+    "longitude": -99.171288,
+    "Rcuisine": "Mexican",
+    "Count": 8,
+    "ave_rating": 0.4
+  },
+  {
+    "placeID": 132733,
+    "latitude": 23.752707100000002,
+    "longitude": -99.1625655,
+    "Rcuisine": "Pizzeria",
+    "Count": 10,
+    "ave_rating": 1.1
+  },
+  {
+    "placeID": 132740,
+    "latitude": 23.7521965,
+    "longitude": -99.16663170000001,
+    "Rcuisine": "Mexican",
+    "Count": 8,
+    "ave_rating": 0.4125
+  },
+  {
+    "placeID": 132754,
+    "latitude": 22.1477379,
+    "longitude": -100.9906163,
+    "Rcuisine": "Mexican",
+    "Count": 13,
+    "ave_rating": 1.4230769230769231
+  },
+  {
+    "placeID": 132755,
+    "latitude": 22.153323999999998,
+    "longitude": -101.0195459,
+    "Rcuisine": "Mexican",
+    "Count": 5,
+    "ave_rating": 2.02
+  },
+  {
+    "placeID": 132766,
+    "latitude": 18.9101777,
+    "longitude": -99.2315438,
+    "Rcuisine": "Japanese",
+    "Count": 3,
+    "ave_rating": 0.2333333333333333
+  },
+  {
+    "placeID": 132767,
+    "latitude": 18.8820871,
+    "longitude": -99.1630268,
+    "Rcuisine": "Vietnamese",
+    "Count": 6,
+    "ave_rating": 1.4666666666666668
+  },
+  {
+    "placeID": 132768,
+    "latitude": 18.9257734,
+    "longitude": -99.2326355,
+    "Rcuisine": "Family",
+    "Count": 10,
+    "ave_rating": 1.7100000000000002
+  },
+  {
+    "placeID": 132773,
+    "latitude": 18.869992899999996,
+    "longitude": -99.2103195,
+    "Rcuisine": "Family",
+    "Count": 8,
+    "ave_rating": 1.05
+  },
+  {
+    "placeID": 132773,
+    "latitude": 18.869992899999996,
+    "longitude": -99.2103195,
+    "Rcuisine": "Mexican",
+    "Count": 8,
+    "ave_rating": 1.05
+  },
+  {
+    "placeID": 132825,
+    "latitude": 22.1473922,
+    "longitude": -100.983092,
+    "Rcuisine": "Mexican",
+    "Count": 32,
+    "ave_rating": 1.009375
+  },
+  {
+    "placeID": 132834,
+    "latitude": 22.156469,
+    "longitude": -100.98554,
+    "Rcuisine": "Mexican",
+    "Count": 25,
+    "ave_rating": 0.7239999999999999
+  },
+  {
+    "placeID": 132845,
+    "latitude": 22.1262926,
+    "longitude": -100.90077640000001,
+    "Rcuisine": "Mexican",
+    "Count": 5,
+    "ave_rating": 0.32
+  },
+  {
+    "placeID": 132846,
+    "latitude": 22.142273199999998,
+    "longitude": -100.94265370000001,
+    "Rcuisine": "International",
+    "Count": 5,
+    "ave_rating": 1.4000000000000001
+  },
+  {
+    "placeID": 132851,
+    "latitude": 22.136872,
+    "longitude": -100.9345736,
+    "Rcuisine": "American",
+    "Count": 14,
+    "ave_rating": 0.6571428571428573
+  },
+  {
+    "placeID": 132851,
+    "latitude": 22.136872,
+    "longitude": -100.9345736,
+    "Rcuisine": "Game",
+    "Count": 14,
+    "ave_rating": 0.6571428571428573
+  },
+  {
+    "placeID": 132854,
+    "latitude": 22.1378633,
+    "longitude": -100.9383273,
+    "Rcuisine": "International",
+    "Count": 6,
+    "ave_rating": 1.3333333333333333
+  },
+  {
+    "placeID": 132856,
+    "latitude": 22.1513782,
+    "longitude": -100.97463370000001,
+    "Rcuisine": "Italian",
+    "Count": 14,
+    "ave_rating": 0.7428571428571429
+  },
+  {
+    "placeID": 132858,
+    "latitude": 22.1312917,
+    "longitude": -100.9371941,
+    "Rcuisine": "Burgers",
+    "Count": 5,
+    "ave_rating": 0.2
+  },
+  {
+    "placeID": 132861,
+    "latitude": 22.1480965,
+    "longitude": -101.0173023,
+    "Rcuisine": "Burgers",
+    "Count": 7,
+    "ave_rating": 1.1285714285714286
+  },
+  {
+    "placeID": 132862,
+    "latitude": 22.150642899999998,
+    "longitude": -100.9870148,
+    "Rcuisine": "International",
+    "Count": 18,
+    "ave_rating": 1.6
+  },
+  {
+    "placeID": 132866,
+    "latitude": 22.141219800000002,
+    "longitude": -100.93131070000001,
+    "Rcuisine": "Bakery",
+    "Count": 10,
+    "ave_rating": 1.12
+  },
+  {
+    "placeID": 132866,
+    "latitude": 22.141219800000002,
+    "longitude": -100.93131070000001,
+    "Rcuisine": "Cafeteria",
+    "Count": 10,
+    "ave_rating": 1.12
+  },
+  {
+    "placeID": 132869,
+    "latitude": 22.1412384,
+    "longitude": -100.9239252,
+    "Rcuisine": "Pizzeria",
+    "Count": 6,
+    "ave_rating": 0.9500000000000001
+  },
+  {
+    "placeID": 132870,
+    "latitude": 22.1430781,
+    "longitude": -100.9354788,
+    "Rcuisine": "Burgers",
+    "Count": 5,
+    "ave_rating": 0.06
+  },
+  {
+    "placeID": 132872,
+    "latitude": 22.173595499999998,
+    "longitude": -100.9946027,
+    "Rcuisine": "American",
+    "Count": 12,
+    "ave_rating": 0.6249999999999999
+  },
+  {
+    "placeID": 132875,
+    "latitude": 22.1499013,
+    "longitude": -100.9937793,
+    "Rcuisine": "Japanese",
+    "Count": 8,
+    "ave_rating": 1.0750000000000002
+  },
+  {
+    "placeID": 132885,
+    "latitude": 22.1795169,
+    "longitude": -100.9584358,
+    "Rcuisine": "Cafeteria",
+    "Count": 5,
+    "ave_rating": 0.12
+  },
+  {
+    "placeID": 132921,
+    "latitude": 22.150305,
+    "longitude": -100.98913370000001,
+    "Rcuisine": "Bar",
+    "Count": 17,
+    "ave_rating": 0.7
+  },
+  {
+    "placeID": 132922,
+    "latitude": 22.1511348,
+    "longitude": -100.9823115,
+    "Rcuisine": "Cafeteria",
+    "Count": 6,
+    "ave_rating": 1.8333333333333333
+  },
+  {
+    "placeID": 132925,
+    "latitude": 22.1534997,
+    "longitude": -100.97624300000001,
+    "Rcuisine": "Mexican",
+    "Count": 5,
+    "ave_rating": 0.8800000000000001
+  },
+  {
+    "placeID": 132937,
+    "latitude": 22.1500193,
+    "longitude": -100.9799203,
+    "Rcuisine": "Bar",
+    "Count": 4,
+    "ave_rating": 0.47500000000000003
+  },
+  {
+    "placeID": 132951,
+    "latitude": 22.1544736,
+    "longitude": -100.98580909999998,
+    "Rcuisine": "American",
+    "Count": 10,
+    "ave_rating": 0.7
+  },
+  {
+    "placeID": 132954,
+    "latitude": 22.160380800000002,
+    "longitude": -100.9880447,
+    "Rcuisine": "Breakfast-Brunch",
+    "Count": 9,
+    "ave_rating": 0.7777777777777778
+  },
+  {
+    "placeID": 132955,
+    "latitude": 22.147622,
+    "longitude": -101.01027490000001,
+    "Rcuisine": "Bar_Pub_Brewery",
+    "Count": 5,
+    "ave_rating": 2.1399999999999997
+  },
+  {
+    "placeID": 132958,
+    "latitude": 22.1449787,
+    "longitude": -101.0056829,
+    "Rcuisine": "American",
+    "Count": 6,
+    "ave_rating": 1.6833333333333336
+  },
+  {
+    "placeID": 134976,
+    "latitude": 18.916654,
+    "longitude": -99.22711,
+    "Rcuisine": "Burgers",
+    "Count": 12,
+    "ave_rating": 1.3250000000000002
+  },
+  {
+    "placeID": 134976,
+    "latitude": 18.916654,
+    "longitude": -99.22711,
+    "Rcuisine": "Mediterranean",
+    "Count": 12,
+    "ave_rating": 1.3250000000000002
+  },
+  {
+    "placeID": 134976,
+    "latitude": 18.916654,
+    "longitude": -99.22711,
+    "Rcuisine": "Mexican",
+    "Count": 12,
+    "ave_rating": 1.3250000000000002
+  },
+  {
+    "placeID": 134983,
+    "latitude": 18.948657,
+    "longitude": -99.235361,
+    "Rcuisine": "Bar",
+    "Count": 10,
+    "ave_rating": 1.1400000000000001
+  },
+  {
+    "placeID": 134983,
+    "latitude": 18.948657,
+    "longitude": -99.235361,
+    "Rcuisine": "Bar_Pub_Brewery",
+    "Count": 10,
+    "ave_rating": 1.1400000000000001
+  },
+  {
+    "placeID": 134986,
+    "latitude": 18.928798,
+    "longitude": -99.239513,
+    "Rcuisine": "International",
+    "Count": 8,
+    "ave_rating": 2.6999999999999997
+  },
+  {
+    "placeID": 134999,
+    "latitude": 18.915421,
+    "longitude": -99.184871,
+    "Rcuisine": "Japanese",
+    "Count": 5,
+    "ave_rating": 1.7399999999999998
+  },
+  {
+    "placeID": 135018,
+    "latitude": 18.859803,
+    "longitude": -99.222164,
+    "Rcuisine": "Mexican",
+    "Count": 4,
+    "ave_rating": 1.6
+  },
+  {
+    "placeID": 135019,
+    "latitude": 18.875010999999997,
+    "longitude": -99.15942199999999,
+    "Rcuisine": "Bar",
+    "Count": 6,
+    "ave_rating": 1.0166666666666668
+  },
+  {
+    "placeID": 135021,
+    "latitude": 18.933537,
+    "longitude": -99.222497,
+    "Rcuisine": "Fast_Food",
+    "Count": 9,
+    "ave_rating": 0.7555555555555556
+  },
+  {
+    "placeID": 135025,
+    "latitude": 22.14955,
+    "longitude": -100.97797,
+    "Rcuisine": "Mexican",
+    "Count": 15,
+    "ave_rating": 1.7066666666666666
+  },
+  {
+    "placeID": 135026,
+    "latitude": 22.148665,
+    "longitude": -101.001273,
+    "Rcuisine": "Bar",
+    "Count": 22,
+    "ave_rating": 1.3090909090909089
+  },
+  {
+    "placeID": 135026,
+    "latitude": 22.148665,
+    "longitude": -101.001273,
+    "Rcuisine": "Bar_Pub_Brewery",
+    "Count": 22,
+    "ave_rating": 1.3090909090909089
+  },
+  {
+    "placeID": 135027,
+    "latitude": 22.147145000000002,
+    "longitude": -100.97449399999999,
+    "Rcuisine": "Mexican",
+    "Count": 8,
+    "ave_rating": 0.42500000000000004
+  },
+  {
+    "placeID": 135028,
+    "latitude": 22.146658,
+    "longitude": -100.987219,
+    "Rcuisine": "Mexican",
+    "Count": 15,
+    "ave_rating": 1.2933333333333332
+  },
+  {
+    "placeID": 135030,
+    "latitude": 22.147879999999997,
+    "longitude": -100.98947199999999,
+    "Rcuisine": "Cafe-Coffee_Shop",
+    "Count": 24,
+    "ave_rating": 1.1749999999999998
+  },
+  {
+    "placeID": 135030,
+    "latitude": 22.147879999999997,
+    "longitude": -100.98947199999999,
+    "Rcuisine": "Cafeteria",
+    "Count": 24,
+    "ave_rating": 1.1749999999999998
+  },
+  {
+    "placeID": 135032,
+    "latitude": 22.152480999999998,
+    "longitude": -100.973486,
+    "Rcuisine": "Cafeteria",
+    "Count": 56,
+    "ave_rating": 0.9178571428571428
+  },
+  {
+    "placeID": 135032,
+    "latitude": 22.152480999999998,
+    "longitude": -100.973486,
+    "Rcuisine": "Contemporary",
+    "Count": 56,
+    "ave_rating": 0.9178571428571428
+  },
+  {
+    "placeID": 135034,
+    "latitude": 22.140517000000003,
+    "longitude": -101.021422,
+    "Rcuisine": "Japanese",
+    "Count": 5,
+    "ave_rating": 2.14
+  },
+  {
+    "placeID": 135035,
+    "latitude": 22.145813,
+    "longitude": -101.01803199999999,
+    "Rcuisine": "Italian",
+    "Count": 4,
+    "ave_rating": 1.5
+  },
+  {
+    "placeID": 135039,
+    "latitude": 22.145893,
+    "longitude": -100.97487,
+    "Rcuisine": "Seafood",
+    "Count": 12,
+    "ave_rating": 0.8000000000000003
+  },
+  {
+    "placeID": 135041,
+    "latitude": 22.15106,
+    "longitude": -100.977659,
+    "Rcuisine": "Bar",
+    "Count": 34,
+    "ave_rating": 0.8882352941176471
+  },
+  {
+    "placeID": 135041,
+    "latitude": 22.15106,
+    "longitude": -100.977659,
+    "Rcuisine": "Cafeteria",
+    "Count": 34,
+    "ave_rating": 0.8882352941176471
+  },
+  {
+    "placeID": 135042,
+    "latitude": 22.159357,
+    "longitude": -100.973411,
+    "Rcuisine": "Chinese",
+    "Count": 20,
+    "ave_rating": 1.1199999999999999
+  },
+  {
+    "placeID": 135043,
+    "latitude": 22.185756,
+    "longitude": -100.944518,
+    "Rcuisine": "Fast_Food",
+    "Count": 18,
+    "ave_rating": 0.8555555555555556
+  },
+  {
+    "placeID": 135043,
+    "latitude": 22.185756,
+    "longitude": -100.944518,
+    "Rcuisine": "Pizzeria",
+    "Count": 18,
+    "ave_rating": 0.8555555555555556
+  },
+  {
+    "placeID": 135044,
+    "latitude": 22.141848,
+    "longitude": -100.997475,
+    "Rcuisine": "Chinese",
+    "Count": 4,
+    "ave_rating": 0.575
+  },
+  {
+    "placeID": 135046,
+    "latitude": 22.141282,
+    "longitude": -101.00295799999999,
+    "Rcuisine": "Fast_Food",
+    "Count": 11,
+    "ave_rating": 0.8
+  },
+  {
+    "placeID": 135048,
+    "latitude": 22.142017000000003,
+    "longitude": -100.999246,
+    "Rcuisine": "Bar",
+    "Count": 6,
+    "ave_rating": 1.2333333333333334
+  },
+  {
+    "placeID": 135049,
+    "latitude": 22.135011,
+    "longitude": -101.0286,
+    "Rcuisine": "Seafood",
+    "Count": 5,
+    "ave_rating": 0.68
+  },
+  {
+    "placeID": 135052,
+    "latitude": 22.150980999999998,
+    "longitude": -100.977412,
+    "Rcuisine": "Bar",
+    "Count": 50,
+    "ave_rating": 1.168
+  },
+  {
+    "placeID": 135052,
+    "latitude": 22.150980999999998,
+    "longitude": -100.977412,
+    "Rcuisine": "Bar_Pub_Brewery",
+    "Count": 50,
+    "ave_rating": 1.168
+  },
+  {
+    "placeID": 135053,
+    "latitude": 22.178931,
+    "longitude": -101.012861,
+    "Rcuisine": "Cafeteria",
+    "Count": 24,
+    "ave_rating": 0.8
+  },
+  {
+    "placeID": 135053,
+    "latitude": 22.178931,
+    "longitude": -101.012861,
+    "Rcuisine": "Fast_Food",
+    "Count": 24,
+    "ave_rating": 0.8
+  },
+  {
+    "placeID": 135053,
+    "latitude": 22.178931,
+    "longitude": -101.012861,
+    "Rcuisine": "Pizzeria",
+    "Count": 24,
+    "ave_rating": 0.8
+  },
+  {
+    "placeID": 135054,
+    "latitude": 22.140626,
+    "longitude": -100.915657,
+    "Rcuisine": "Seafood",
+    "Count": 10,
+    "ave_rating": 0.63
+  },
+  {
+    "placeID": 135055,
+    "latitude": 22.148854,
+    "longitude": -101.008472,
+    "Rcuisine": "Mexican",
+    "Count": 7,
+    "ave_rating": 2.314285714285714
+  },
+  {
+    "placeID": 135057,
+    "latitude": 22.145992,
+    "longitude": -100.955118,
+    "Rcuisine": "Bar",
+    "Count": 15,
+    "ave_rating": 1.1
+  },
+  {
+    "placeID": 135058,
+    "latitude": 22.165587,
+    "longitude": -101.001273,
+    "Rcuisine": "Pizzeria",
+    "Count": 18,
+    "ave_rating": 0.461111111111111
+  },
+  {
+    "placeID": 135059,
+    "latitude": 22.145108,
+    "longitude": -100.989547,
+    "Rcuisine": "Bar",
+    "Count": 9,
+    "ave_rating": 0.9777777777777779
+  },
+  {
+    "placeID": 135060,
+    "latitude": 22.156882999999997,
+    "longitude": -100.97848499999999,
+    "Rcuisine": "Seafood",
+    "Count": 22,
+    "ave_rating": 0.9363636363636364
+  },
+  {
+    "placeID": 135069,
+    "latitude": 22.140129,
+    "longitude": -100.944872,
+    "Rcuisine": "Bar",
+    "Count": 12,
+    "ave_rating": 0.15833333333333335
+  },
+  {
+    "placeID": 135071,
+    "latitude": 22.126375,
+    "longitude": -100.910926,
+    "Rcuisine": "Bar",
+    "Count": 18,
+    "ave_rating": 0.9000000000000001
+  },
+  {
+    "placeID": 135071,
+    "latitude": 22.126375,
+    "longitude": -100.910926,
+    "Rcuisine": "Bar_Pub_Brewery",
+    "Count": 18,
+    "ave_rating": 0.9000000000000001
+  },
+  {
+    "placeID": 135072,
+    "latitude": 22.149192000000003,
+    "longitude": -101.002936,
+    "Rcuisine": "Japanese",
+    "Count": 8,
+    "ave_rating": 1.0875000000000001
+  },
+  {
+    "placeID": 135073,
+    "latitude": 22.147175,
+    "longitude": -100.97426899999999,
+    "Rcuisine": "Bar",
+    "Count": 8,
+    "ave_rating": 0.925
+  },
+  {
+    "placeID": 135073,
+    "latitude": 22.147175,
+    "longitude": -100.97426899999999,
+    "Rcuisine": "Bar_Pub_Brewery",
+    "Count": 8,
+    "ave_rating": 0.925
+  },
+  {
+    "placeID": 135074,
+    "latitude": 22.149689000000002,
+    "longitude": -100.999525,
+    "Rcuisine": "Contemporary",
+    "Count": 4,
+    "ave_rating": 1.85
+  },
+  {
+    "placeID": 135075,
+    "latitude": 22.139573000000002,
+    "longitude": -100.991564,
+    "Rcuisine": "Seafood",
+    "Count": 13,
+    "ave_rating": 1.6076923076923075
+  },
+  {
+    "placeID": 135079,
+    "latitude": 22.156376,
+    "longitude": -100.998355,
+    "Rcuisine": "Chinese",
+    "Count": 17,
+    "ave_rating": 0.8705882352941177
+  },
+  {
+    "placeID": 135085,
+    "latitude": 22.150802,
+    "longitude": -100.98268,
+    "Rcuisine": "Fast_Food",
+    "Count": 36,
+    "ave_rating": 1.2027777777777777
+  },
+  {
+    "placeID": 135086,
+    "latitude": 22.141420999999998,
+    "longitude": -101.01395500000001,
+    "Rcuisine": "Burgers",
+    "Count": 20,
+    "ave_rating": 0.2
+  },
+  {
+    "placeID": 135086,
+    "latitude": 22.141420999999998,
+    "longitude": -101.01395500000001,
+    "Rcuisine": "Fast_Food",
+    "Count": 20,
+    "ave_rating": 0.2
+  },
+  {
+    "placeID": 135088,
+    "latitude": 18.876011300000002,
+    "longitude": -99.2198896,
+    "Rcuisine": "Cafeteria",
+    "Count": 6,
+    "ave_rating": 0.6166666666666667
+  },
+  {
+    "placeID": 135104,
+    "latitude": 23.752982100000004,
+    "longitude": -99.16843409999998,
+    "Rcuisine": "Mexican",
+    "Count": 7,
+    "ave_rating": 0.6857142857142858
+  },
+  {
+    "placeID": 135106,
+    "latitude": 22.149708800000003,
+    "longitude": -100.97609279999999,
+    "Rcuisine": "Mexican",
+    "Count": 10,
+    "ave_rating": 1.4100000000000001
+  },
+  {
+    "placeID": 135109,
+    "latitude": 18.9217848,
+    "longitude": -99.2353499,
+    "Rcuisine": "Italian",
+    "Count": 4,
+    "ave_rating": 0.575
+  }
+]
